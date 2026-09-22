@@ -1,0 +1,6 @@
+# Test files and folders
+test_folder/
+
+# Python cache files
+__pycache__/
+*.pyc
